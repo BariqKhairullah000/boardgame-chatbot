@@ -105,9 +105,9 @@ The chatbot uses a dataset with the following columns:
 
 ## Application Interface
 
-Below is a screenshot of the application in action:
+Below is a Canva design showing the application in action:
 
-![Application Interface](![image](https://github.com/user-attachments/assets/8d2e836d-3361-4354-a22c-5731bf635a84),![image](https://github.com/user-attachments/assets/9e771ca7-7fba-4ca1-a3e8-624ffa72d2dc),![image](https://github.com/user-attachments/assets/791b8639-3b13-4bcc-800f-c635a023f196),![image](https://github.com/user-attachments/assets/4103ac8c-d763-44c4-b3d9-d2c7814f8d57))
+[View Application Interface on Canva](https://www.canva.com/design/DAGeueGK-Fs/FYEiH1z8sMqvHMZHLPRaIw/view?utm_content=DAGeueGK-Fs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haabc22a8c4)
 
 This interface allows users to:
 
